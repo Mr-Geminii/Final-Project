@@ -1,0 +1,60 @@
+* {
+    margin: 10px 10px;
+}
+
+
+
+nav {
+    float: right;
+    padding: 20px;
+    width: 400px;
+    font-size: 25px;
+}
+a {
+    text-decoration: none;
+    color: #606060;
+    text-align: center;
+}
+
+a:hover {
+    color: black;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    padding: 5px 0px 10px 50px;
+
+}
+
+h1 {
+    text-align: center;
+    color: #606060;
+}
+
+p {
+    text-align: center;
+    width: 575px;
+}
+
+.p1 {
+    justify-content: center;
+}
+
+.img {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.line {
+    width: 50%;
+    text-align: right;
+}
+
+address, h5 {
+    text-align: center;
+    font-style: none;
+}
