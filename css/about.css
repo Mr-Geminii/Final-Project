@@ -1,0 +1,28 @@
+* {
+    /* box-sizing: border-box; */
+    margin: 10px 10px;
+}
+
+nav {
+    float: right;
+    padding: 20px;
+    width: 400px;
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #606060;
+    text-align: center;
+}
+
+a:hover {
+    color: black;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    padding: 5px 0px 10px 50px;
+}
+
