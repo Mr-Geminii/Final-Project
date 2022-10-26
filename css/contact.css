@@ -1,6 +1,7 @@
 * {
     /* box-sizing: border-box; */
     margin: 10px 10px;
+    background-color: ghostwhite;
 }
 
 nav {
@@ -39,7 +40,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-  background-color: #04AA6D;
+  background-color: #606060;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -48,11 +49,20 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: black;
 }
 
 .container {
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: ghostwhite;
   padding: 20px;
+}
+
+footer {
+  text-align: center;
+}
+
+address, h5 {
+  text-align: center;
+  font-style: none;
 }

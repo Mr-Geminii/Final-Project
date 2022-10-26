@@ -92,5 +92,19 @@ address, h5 {
 }
 
 button {
-    align-items: center;
+    background-color: #606060;
+    color: ghostwhite;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    justify-content: center;
+   
+}
+
+button:hover {
+    background-color: #3e3e3e;
+    color: white;
 }

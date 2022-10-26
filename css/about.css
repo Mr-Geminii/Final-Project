@@ -1,6 +1,7 @@
 * {
     /* box-sizing: border-box; */
     margin: 10px 10px;
+    background-color: ghostwhite;
 }
 
 nav {
@@ -9,6 +10,11 @@ nav {
     width: 400px;
     font-size: 25px;
 }
+
+.gmap_canvas {
+    content: center;
+}
+
 
 a {
     text-decoration: none;
@@ -26,3 +32,15 @@ img {
     padding: 5px 0px 10px 50px;
 }
 
+footer {
+    text-align: center;
+}
+
+address, h5 {
+    text-align: center;
+    font-style: none;
+}
+
+p {
+    text-align: center;
+}
